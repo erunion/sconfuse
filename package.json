@@ -1,0 +1,23 @@
+{
+  "name": "sconfuse",
+  "version": "0.0.1",
+  "description": "sconfuse malware",
+  "main": "index.js",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonursenbach/sconfuse.git"
+  },
+  "keywords": [
+    "malware"
+  ],
+  "author": "Jon Ursenbach <jon@ursenba.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonursenbach/sconfuse/issues"
+  },
+  "homepage": "https://github.com/jonursenbach/sconfuse",
+  "dependencies": {
+    "commander": "^2.1.0"
+  }
+}
