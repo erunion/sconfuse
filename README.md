@@ -1,4 +1,4 @@
-# sconfuse malware
+# sconfuse malware [![NPM version](https://badge.fury.io/js/sconfuse.png)](http://badge.fury.io/js/sconfuse)
 
 Sconfuse malware by converting all of your html tags into entities. Ripped from the headlines of
 [@jennschiffer](https://github.com/jennschiffer)'s incredibly eye-opening DHTMLConf talk about the dangers of malware
@@ -14,7 +14,7 @@ $ cat index.htm
 <html>
 <head>
   <meta charset="utf-8">
-  <title>lol malware</title>
+  <title>V.I.R.U.S</title>
 </head>
 <body>
   <img src="http://stream1.gifsoup.com/view3/4746482/swordfish-hacker-o.gif" />
