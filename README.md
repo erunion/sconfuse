@@ -1,7 +1,8 @@
 # sconfuse malware
 
-Sconfuse malware by converting all of your html tags into entities. Ripped from the headlines of @jennschiffer's
-incredibly eye-opening DHTMLConf talk about the dangers of malware and also an MIT thread somewhere.
+Sconfuse malware by converting all of your html tags into entities. Ripped from the headlines of
+[@jennschiffer](https://github.com/jennschiffer)'s incredibly eye-opening DHTMLConf talk about the dangers of malware
+and also an MIT thread somewhere.
 
 ### Install
 ```npm install -g sconfuse```
